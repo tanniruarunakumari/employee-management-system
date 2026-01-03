@@ -1,3 +1,9 @@
+Project #1	:  Employee Management System
+Client		:  BridgeSoft
+Environments	:  Java 8, Spring Boot, ReactJS, MySQL.
+Team Size	:  2
+
+
 Employees are the backbone of any company therefore their contribution plays a major role in deciding the success of an organization . 
 Employees Management Software makes it easy for the employer to keep track of all records. This software allows the administrator to edit employees,
 add new employees, transfer/promote/terminate employees. You can check to see if there are duplicate positions/employees in the database. 
